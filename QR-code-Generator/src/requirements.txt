@@ -1,0 +1,4 @@
+qrcode[pil]
+colorama
+pyzbar
+opencv-python
